@@ -5,12 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=ABHIJEET_KANGANE;Full-Stack+Web+%26+AI+Developer;GSSoC+'26+Open+Source+Elite;Building+Future-Ready+Solutions" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://linkedin.com/in/abhijeet-kangane"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   <a href="mailto:abhijeet666k@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
   <a href="https://twitter.com/abhijeet_037"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
@@ -21,9 +15,13 @@
 
 <table align="center" border="0" width="100%">
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+    </td>
+    <td width="50%" align="center">
       <h2 align="center"><font color="#00FF41">⚡ COMMAND_CENTER ⚡</font></h2>
       <code>➤ ROLE       : Full-Stack Web & AI Developer</code><br>
+      <code>➤ BUILD      : Enterprise SaaS & Scalable Systems</code><br>
       <code>➤ CORE_STACK : Next.js 15, TypeScript, Supabase</code><br>
       <code>➤ ALLIANCE   : Open Source Elite @ GSSoC '26</code><br>
       <code>➤ BASE       : Maharashtra, India</code>
