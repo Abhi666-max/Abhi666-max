@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="Developer Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=ROOT_ACCESS_GRANTED...;INITIALIZING_ABHIJEET_KANGANE_MAINFRAME...;FULL-STACK_AI_WIZARD_CORE_ONLINE...;ENGINEERING_ELITE_SaaS_&_AI_PROTOCOLS..." alt="Typing SVG" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=60&lines=INITIALIZING_MAINFRAME...;ACCESSING_SECURE_NODE...;DEPLOYING_AI_ARCHITECTURES...;SYSTEM_READY_FOR_GSSOC_26" alt="Typing SVG" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi666-max&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -20,41 +18,34 @@
 
 <table align="center" border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Code Animation" />
-    </td>
-    <td width="50%" align="left">
-      <h2 align="center"><font color="#00FF41">>> SYSTEM_CORE_LOGS</font></h2>
-      <code>➤ STATUS     : ELITE_CONTRIBUTOR</code><br><br>
-      <code>➤ EXPERTISE  : NEXT.JS_15_&_AI_AGENT_ENGINEERING</code><br><br>
-      <code>➤ STACK_ID   : FULL_STACK_MASTER_LEVEL</code><br><br>
-      <code>➤ ALLIANCE   : GSSoC_26_OPEN_SOURCE</code><br><br>
-      <code>➤ LOCATION   : MAHARASHTRA_IND</code>
+    <td align="center" width="100%">
+      <h2 align="center"><font color="#00FF41">>> SYSTEM_COMMAND_CENTER_//</font></h2>
+      <p align="center">
+        <code>[ID] : ABHIJEET_KANGANE</code> | <code>[ROLE] : FULL-STACK_AI_ARCHITECT</code> <br>
+        <code>[STACK] : NEXT.JS_15 / TYPESCRIPT / SUPABASE / JAVA</code> | <code>[ALLIANCE] : GSSoC_'26</code>
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 align="center"><font color="#00FF41">>> TECH_STACK_MODULES</font></h2>
+<h2 align="center"><font color="#00FF41">>> ACTIVE_TECHNOLOGIES_//</font></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,docker,vercel&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,vscode,docker,vercel&theme=dark&perline=10" alt="Tech Stack" />
 </div>
 
 <br/>
 
-<h2 align="center"><font color="#00FF41">>> LIVE_TELEMETRY_ENGINE</font></h2>
+<h2 align="center"><font color="#00FF41">>> LIVE_TELEMETRY_//</font></h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi666-max&theme=matrix" width="100%" alt="Profile Details" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi666-max&theme=matrix" width="48%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi666-max&theme=matrix" width="48%" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi666-max&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi666-max&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="48%" />
 </div>
 
 <br/>
 
-<h2 align="center"><font color="#00FF41">>> CONTRIBUTION_CRAWLER</font></h2>
+<h2 align="center"><font color="#00FF41">>> CONTRIBUTION_CRAWLER_//</font></h2>
 <div align="center">
   <img alt="Snake Animation" src="https://raw.githubusercontent.com/Abhi666-max/Abhi666-max/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
@@ -62,5 +53,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhi666-max&label=MAINFRAME+VIEWS&color=00FF41&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Abhi666-max&label=MAINFRAME+ACCESSES&color=00FF41&style=for-the-badge" alt="Visitor Count" />
 </div>
