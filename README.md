@@ -47,6 +47,13 @@
 
 <br/>
 
+<h2 align="center"><font color="#00FF41">>> GITHUB_STREAK_STATS_//</font></h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi666-max&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41" width="100%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
 <h2 align="center"><font color="#00FF41">>> CONTRIBUTION_CRAWLER_//</font></h2>
 <div align="center">
   <img alt="Snake" src="https://raw.githubusercontent.com/Abhi666-max/Abhi666-max/output/github-contribution-grid-snake-dark.svg" width="100%">
