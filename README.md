@@ -5,28 +5,29 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhijeet-kangane"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-  <a href="mailto:abhijeet666k@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <a href="https://twitter.com/abhijeet_037"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
-  <a href="https://github.com/Abhi666-max"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+  <a href="https://linkedin.com/in/abhijeet-kangane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="mailto:abhijeet666k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="https://twitter.com/abhijeet_037" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
+  <a href="https://github.com/Abhi666-max" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 </div>
 
 <br/>
 
 <table align="center" border="0" width="100%">
   <tr>
-    <td width="45%" align="center">
+    <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
     </td>
-    <td width="55%" align="left" style="padding-left: 30px;">
+    <td width="60%" align="left" style="padding-left: 30px;">
       <h2 align="center"><font color="#00FF41">⚡ SYSTEM_COMMAND_CENTER ⚡</font></h2>
-      <p>
-        <font color="#00FF41"><b>[IDENTIFICATION]</b></font> : Abhijeet Kangane <br>
-        <font color="#00FF41"><b>[ROLE]</b></font> : Full-Stack Web & AI Developer <br>
-        <font color="#00FF41"><b>[MISSION]</b></font> : Enterprise SaaS & AI Modeling <br>
-        <font color="#00FF41"><b>[STACK]</b></font> : Next.js 15, TypeScript, Supabase <br>
-        <font color="#00FF41"><b>[STATUS]</b></font> : <font color="#FFD700">ONLINE_AND_OPERATIONAL</font>
-      </p>
+      <br>
+      <pre>
+<font color="#00FF41">[IDENTIFICATION] :</font> Abhijeet Kangane
+<font color="#00FF41">[ROLE]           :</font> Full-Stack Web & AI Developer
+<font color="#00FF41">[MISSION]        :</font> Enterprise SaaS & AI Modeling
+<font color="#00FF41">[STACK]          :</font> Next.js 15, TypeScript, Supabase
+<font color="#00FF41">[STATUS]         :</font> <font color="#FFD700">ONLINE_AND_OPERATIONAL</font>
+      </pre>
     </td>
   </tr>
 </table>
@@ -35,7 +36,7 @@
 
 <h2 align="center"><font color="#00FF41">>> ACTIVE_TECHNOLOGIES_//</font></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,vscode,docker,vercel&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,vscode,docker,figma,postman,vercel&theme=dark&perline=10" alt="Tech Stack" />
 </div>
 
 <br/>
