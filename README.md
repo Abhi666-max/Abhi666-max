@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Cinematic Coding" />
-</div>
 
-<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/abhijeet-kangane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
@@ -25,8 +21,8 @@
 <font color="#00FF41">[IDENTIFICATION] :</font> Abhijeet Kangane
 <font color="#00FF41">[ROLE]           :</font> Full-Stack Web & AI Developer
 <font color="#00FF41">[MISSION]        :</font> Enterprise SaaS & AI Modeling
-<font color="#00FF41">[STACK]          :</font> Next.js 15, TypeScript, Supabase
-<font color="#00FF41">[STATUS]         :</font> <font color="#FFD700">ONLINE_AND_OPERATIONAL</font>
+<font color="#00FF41">[ALLIANCE]          :</font> Open Source Elite @ GSSoC '26
+<font color="#00FF41">[BASE]         :</font> <font color="#FFD700">Maharashtra, India</font>
       </pre>
     </td>
   </tr>
