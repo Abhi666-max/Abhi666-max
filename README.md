@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="Premium Hacker Animation" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=System.out.println(%22Hello+World!%22);Architecting+Elite+AI+Platforms...;Engineering+Scalable+Solutions...;GSSoC+'26+Premium+Contributor" alt="Typing SVG" />
