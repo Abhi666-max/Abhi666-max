@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=60&lines=ABHIJEET_KANGANE;Full-Stack+Web+%26+AI+Developer;Elite+Contributor+@+GSSoC'26;Engineering+the+Digital+Future..." alt="Typing SVG" />
+</div>
 
+<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/abhijeet-kangane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
@@ -14,15 +18,14 @@
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
     </td>
-    <td width="60%" align="left" style="padding-left: 30px;">
+    <td width="60%" align="left" style="padding-left: 40px;">
       <h2 align="center"><font color="#00FF41">⚡ SYSTEM_COMMAND_CENTER ⚡</font></h2>
-      <br>
       <pre>
 <font color="#00FF41">[IDENTIFICATION] :</font> Abhijeet Kangane
 <font color="#00FF41">[ROLE]           :</font> Full-Stack Web & AI Developer
 <font color="#00FF41">[MISSION]        :</font> Enterprise SaaS & AI Modeling
-<font color="#00FF41">[ALLIANCE]          :</font> Open Source Elite @ GSSoC '26
-<font color="#00FF41">[BASE]         :</font> <font color="#FFD700">Maharashtra, India</font>
+<font color="#00FF41">[ALLIANCE]       :</font> Open Source Elite @ GSSoC '26
+<font color="#00FF41">[BASE]           :</font> <font color="#FFD700">Maharashtra, India</font>
       </pre>
     </td>
   </tr>
@@ -32,7 +35,7 @@
 
 <h2 align="center"><font color="#00FF41">>> ACTIVE_TECHNOLOGIES_//</font></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,vscode,docker,figma,postman,vercel&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,vscode,docker,vercel&theme=dark&perline=10" alt="Tech Stack" />
 </div>
 
 <br/>
