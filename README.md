@@ -1,104 +1,103 @@
-<!-- HEADER: TYPING EFFECT -->
+<!-- HEADER: ADVANCED TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=INITIATING_SYSTEM_BOOT...;WELCOME_TO_THE_MAINFRAME;I_AM_ABHIJEET_KANGANE;FULL-STACK_WEB_%26_AI_ARCHITECT;ENGINEERING_THE_DIGITAL_FUTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=ROOT_ACCESS_GRANTED...;WELCOME_TO_THE_MAINFRAME;I_AM_ABHIJEET_KANGANE;ENGINEERING_THE_DIGITAL_FUTURE" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<!-- SECURE CONNECTION LINKS -->
+<!-- ELITE HACKER SOCIALS -->
 <div align="center">
-  <a href="https://linkedin.com/in/abhijeet-kangane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&edge_color=00FF41" alt="LinkedIn" /></a>
-  <a href="mailto:abhijeet666k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&edge_color=00FF41" alt="Email" /></a>
-  <a href="https://twitter.com/abhijeet_037" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&edge_color=00FF41" alt="Twitter" /></a>
-  <a href="https://github.com/Abhi666-max" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&edge_color=00FF41" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/abhijeet-kangane"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41" /></a>
+  <a href="mailto:abhijeet666k@gmail.com"><img src="https://img.shields.io/badge/Secure_Comms-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&border=00FF41" /></a>
+  <a href="https://twitter.com/abhijeet_037"><img src="https://img.shields.io/badge/X_Terminal-0D1117?style=for-the-badge&logo=x&logoColor=00FF41&border=00FF41" /></a>
+  <a href="https://github.com/Abhi666-max"><img src="https://img.shields.io/badge/Git_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&border=00FF41" /></a>
 </div>
 
-<br/><br/>
+<br><br>
 
-<!-- TERMINAL / HERO SECTION -->
+<!-- TERMINAL INTERFACE WITH GIF -->
 <table align="center" border="0" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Hacker Coding GIF" />
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 8px;" />
     </td>
-    <td width="55%" align="left" style="padding-left: 30px;">
-      <h2 align="left"><font color="#00FF41">⚡ SYS_ADMIN_PROFILE ⚡</font></h2>
-      <code>
-        <font color="#00FF41">root@abhi666-max:~#</font> ./execute_profile.sh<br/><br/>
-        <font color="#00FF41">[+] USER_ID    :</font> Abhijeet Kangane<br/>
-        <font color="#00FF41">[+] CLASS      :</font> Full-Stack Web & AI Developer<br/>
-        <font color="#00FF41">[+] MISSION    :</font> Enterprise SaaS & AI Modeling<br/>
-        <font color="#00FF41">[+] ALLIANCE   :</font> Elite Contributor @ GSSoC '26<br/>
-        <font color="#00FF41">[+] BASE       :</font> Maharashtra, India<br/>
-        <font color="#00FF41">[+] STATUS     :</font> <font color="#FFD700">Online & Hacking...</font><br/>
-      </code>
+    <td width="60%" align="left" style="padding-left: 20px;">
+      <h2 align="center"><font color="#00FF41">⚡ SYSTEM_COMMAND_CENTER ⚡</font></h2>
+      <pre>
+<font color="#00FF41">root@abhi666-max:~$</font> whoami
+<font color="#00FF41">[IDENTIFICATION]</font> : Abhijeet Kangane
+<font color="#00FF41">[DESIGNATION]</font>    : Full-Stack Web & AI Developer
+<font color="#00FF41">[SPECIALTY]</font>      : Enterprise SaaS & AI Modeling
+<font color="#00FF41">[ALLIANCE]</font>       : Open Source Elite @ GSSoC '26
+<font color="#00FF41">[BASE]</font>           : <font color="#FFD700">Maharashtra, India</font>
+
+<font color="#00FF41">root@abhi666-max:~$</font> ./execute_future.sh
+<font color="#00FF41">[STATUS]</font>         : Building scalable architectures...
+      </pre>
     </td>
   </tr>
 </table>
 
-<br/><br/>
+<br>
 
-<!-- TECH ARSENAL -->
-<h2 align="center"><font color="#00FF41">>> WEAPONS_OF_CHOICE_//</font></h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,vscode,docker,vercel&theme=dark&perline=12" alt="Tech Arsenal" />
-</div>
+<!-- COLLAPSIBLE TECH ARSENAL (HIDDEN TRICK) -->
+<h2 align="center"><font color="#00FF41">>> SYSTEM_DEPENDENCIES_//</font></h2>
+<details open>
+  <summary align="center"><b><font color="#00FF41">CLICK TO EXPAND MAINFRAME ARSENAL</font></b></summary>
+  <br>
+  <div align="center">
+    <p><font color="#ffffff"><b>[ Frontend & UI ]</b></font></p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+    <br><br>
+    <p><font color="#ffffff"><b>[ Backend & Database ]</b></font></p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb,postgresql,supabase&theme=dark" />
+    <br><br>
+    <p><font color="#ffffff"><b>[ DevOps & Infrastructure ]</b></font></p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux&theme=dark" />
+  </div>
+</details>
 
-<br/><br/>
+<br>
 
-<!-- GITHUB TROPHIES (HIDDEN FLEX) -->
-<h2 align="center"><font color="#00FF41">>> ACHIEVEMENTS_UNLOCKED_//</font></h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhi666-max&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
-  </a>
-</div>
+<!-- GRID STATS: GITHUB OVERVIEW & STREAK -->
+<h2 align="center"><font color="#00FF41">>> TELEMETRY_DATA_//</font></h2>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhi666-max&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi666-max&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <!-- DYNAMIC TROPHIES API -->
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github-profile-trophy.vercel.app/?username=Abhi666-max&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&title-text-color=00FF41" width="100%" alt="Trophies" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br>
 
-<!-- DYNAMIC STATS MATRIX -->
-<h2 align="center"><font color="#00FF41">>> SYSTEM_ANALYTICS_//</font></h2>
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Abhi666-max&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi666-max&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- STREAK STATS -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi666-max&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="80%" alt="GitHub Streak" />
-</div>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH & SNAKE (THE CRAWLER) -->
-<h2 align="center"><font color="#00FF41">>> NETWORK_ACTIVITY_LOG_//</font></h2>
+<!-- ACTIVITY GRAPH -->
+<h2 align="center"><font color="#00FF41">>> CONTRIBUTION_MATRIX_//</font></h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi666-max&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<br/>
+<br>
 
+<!-- GITHUB SNAKE ANIMATION -->
+<h2 align="center"><font color="#00FF41">>> CONTRIBUTION_CRAWLER_//</font></h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi666-max/Abhi666-max/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Abhi666-max/Abhi666-max/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img alt="Snake" src="https://raw.githubusercontent.com/Abhi666-max/Abhi666-max/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<br/><br/>
+<br>
 
-<!-- FOOTER / MAINFRAME VIEWS -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhi666-max&label=MAINFRAME_BREACHES&color=00FF41&style=for-the-badge" alt="Profile Views" />
-  <p><font color="#00FF41"><i>"Talk is cheap. Show me the code."</i></font></p>
+  <img src="https://komarev.com/ghpvc/?username=Abhi666-max&label=MAINFRAME+ACCESSES&color=00FF41&style=for-the-badge" alt="Views" />
+  <br><br>
+  <p><font color="#00FF41" size="2"><i>"Talk is cheap. Show me the code." - Linus Torvalds</i></font></p>
 </div>
